@@ -1,0 +1,7 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,commercial-and-recreational,0.3611772486772487,0.48851884170383353,6.075,,Where in California are we?,SoCal!,,,,,,,,
+2,commercial-and-recreational,0.28786786423013755,0.4601960132629011,11.447578125000001,,But where specifically?,Santa Barbara!,,,,,,,,
+3,commercial-and-recreational,0.2850832966070419,0.47220606572729235,45.466666666666676,,What year was this made?,	1927,,,,,,,,
+4,commercial-and-recreational,0.29763287763760465,0.47389075782145484,17.2572240234375,,• What does it show?,Infrastructure,,Learn more,192r-test-learn-more.md,,,,,
+5,commercial-and-recreational,0.47673731339122055,0.5058634740014702,5.164511909414063,,How does it specifically focus on SoCal,"one of the notable features of this map is its depiction of Southern California, which is offset to fit better within the map's format. ",,Learn more,192r-test-step5-layer1.md,,,,,
