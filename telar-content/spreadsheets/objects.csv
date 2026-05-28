@@ -2,23 +2,23 @@ object_id,title,featured,creator,description,source_url,period,year,medium_genre
 id_objeto,titulo,destacado,creador,descripcion,url_fuente,periodo,año,medio_genero,temas,fuente,credito,miniatura,texto_alt
 # Make it lower-case and avoid spaces. If you are referring to a local object please ensure the object_id matches the name of the file exactly (with or without the file extension – it doesn't matter).,# Please provide a title — this is required.,"# Describe what the image shows for screen readers. Mention the subject and key details. Avoid ""Image of..."" — describe the content directly. If empty, the title is used.","# Mark ""yes"" to feature on homepage",# The person or organization that created the original object.,"# A brief description of the object, shown on the objects page of your published site.",# Here you can include a IIIF manifest and Telar will do the rest of the work for you.,"# The historical period this object belongs to (e.g. ""Colonial period"", ""19th century"").",# In YYYY format — for filtering and sorting chronologically.,"# The medium or genre of the object (e.g. ""Map"", ""Photograph"", ""Engraving"").",# Comma-separated terms for gallery filtering,"# This will be overlaid over the viewer, unless you specify otherwise in _config.yml.","# Attribution line shown on the published site (e.g. ""Courtesy of UCSB Library"").","# Telar generates thumbnails automatically, but you can override this by specifying an image file in this column."
 "# Escríbelo en minúsculas y sin espacios. Si hace referencia a un objeto local, asegúrate de que el object_id coincida exactamente con el nombre del archivo (con o sin extensión; no importa).",# Incluye un título: este campo es obligatorio.,"# Describe lo que muestra la imagen para lectores de pantalla. Menciona el sujeto y los detalles clave. Evita ""Imagen de..."" — describe el contenido directamente. Si se deja vacío, se usa el título.","# Marca ""sí"" para destacar en la página de inicio",# La persona u organización que creó el objeto original.,"# Una breve descripción del objeto, que se muestra en la página de objetos de tu sitio publicado.",# Aquí puedes incluir un manifiesto IIIF y Telar se encargará del resto del trabajo.,"# El período histórico al que pertenece este objeto (por ejemplo, ""Período colonial"", ""Siglo XIX"").",# En formato AAAA — para filtrar y ordenar cronológicamente.,"# El medio o género del objeto (por ejemplo, ""Mapa"", ""Fotografía"", ""Grabado"").",# Términos separados por comas para filtrado de galería,"# Esto se mostrará encima del visor, a menos que indiques lo contrario en _config.yml.","# Línea de atribución que se muestra en el sitio publicado (por ejemplo, ""Cortesía de la Biblioteca de UCSB"").","# Telar genera miniaturas automáticamente, pero puedes anular este comportamiento especificando un archivo de imagen en esta columna."
+telar-placeholder,Telar placeholder,,Adelaida Ávila,,,,2026,,,,,,Telar placeholder
 commercial-and-recreational,Commercial and Recreational Map of California,,"Heald, Ralph P.","The work depicted in the image is ""Heald-Menerey's Geographical, Commercial and Recreational Map of California,"" created by the Heald-Menerey Company, Inc., and Ralph P. Heald in 1927. This map is part of a series produced by the company, with this specific section being Sheet 7 from the series. The map measures 107 cm in width and 20 cm in height, characteristic of the Heald style, which involves dividing the map into horizontal strips that fold into a bound volume.",https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~345681~90113142/manifest,,,,,,David Rumsey Historical Map Collection,"https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~345681~90113142/full/!96,96/0/default.jpg",Commercial and Recreational Map of California
-img6635-2,IMG_6635 2,,,,,,,,,,,,IMG_6635 2
-img6636-2,IMG_6636 2,,,,,,,,,,,,IMG_6636 2
-img6641-2,IMG_6641 2,,,,,,,,,,,,IMG_6641 2
-img6642-2,IMG_6642 2,,,,,,,,,,,,IMG_6642 2
-img6643-2,IMG_6643 2,,,,,,,,,,,,IMG_6643 2
-img6644-2,IMG_6644 2,,,,,,,,,,,,IMG_6644 2
-img6645-2,IMG_6645 2,,,,,,,,,,,,IMG_6645 2
-img6646-2,IMG_6646 2,,,,,,,,,,,,IMG_6646 2
-img6649-2,IMG_6649 2,,,,,,,,,,,,IMG_6649 2
-img6654-2,IMG_6654 2,,,,,,,,,,,,IMG_6654 2
 kic-image-1272,KIC Image 1272,,,,,,,,,,,,KIC Image 1272
 kic-image-1276,KIC Image 1276,,,,,,,,,,,,KIC Image 1276
 kic-image-1283,KIC Image 1283,,,,,,,,,,,,KIC Image 1283
 kic-image-1287,KIC Image 1287,,,,,,,,,,,,KIC Image 1287
+img6644-2,IMG_6644 2,,,,,,,,,,,,IMG_6644 2
+img6641-2,IMG_6641 2,,,,,,,,,,,,IMG_6641 2
+img6643-2,IMG_6643 2,,,,,,,,,,,,IMG_6643 2
+img6646-2,IMG_6646 2,,,,,,,,,,,,IMG_6646 2
+img6642-2,IMG_6642 2,,,,,,,,,,,,IMG_6642 2
+img6636-2,IMG_6636 2,,,,,,,,,,,,IMG_6636 2
+img6654-2,IMG_6654 2,,,,,,,,,,,,IMG_6654 2
+img6635-2,IMG_6635 2,,,,,,,,,,,,IMG_6635 2
+img6645-2,IMG_6645 2,,,,,,,,,,,,IMG_6645 2
+img6649-2,IMG_6649 2,,,,,,,,,,,,IMG_6649 2
 screenshot-20260528-at-104447-am,Screenshot 2026-05-28 at 10.44.47 AM,,,,,,,,,,,,Screenshot 2026-05-28 at 10.44.47 AM
 screenshot-20260528-at-104554-am,Screenshot 2026-05-28 at 10.45.54 AM,,,,,,,,,,,,Screenshot 2026-05-28 at 10.45.54 AM
 screenshot-20260528-at-110334-am,I.V. Cops Talk With Residents,,,,,,,,,,,,I.V. Cops Talk With Residents
 screenshot-20260528-at-111317-am,Partiers Enjoy Halloween Weekend of Fun,,,,,,,,,,,,Partiers Enjoy Halloween Weekend of Fun
-telar-placeholder,Telar placeholder,,Adelaida Ávila,,,,2026,,,,,,Telar placeholder
