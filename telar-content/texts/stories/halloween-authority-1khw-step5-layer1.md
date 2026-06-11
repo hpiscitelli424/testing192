@@ -1,0 +1,1 @@
+In the primary source, there is mention of Associated Students Rep-at-Large Matt Barrall, who helped organize and facilitate the police forum. According to Barrall, he helped validate the event because Lt. Banks is trying to ensure students’ rights are respected while also providing a “very fresh outlook to the special circumstances of I.V.”
